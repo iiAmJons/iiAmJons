@@ -1,4 +1,1 @@
-- 👋 Oi, sou iiAmJons
-- 👀 Estou interessado em criar bots do discord pelo BDFD
-- 💞️ Estou procurando em colaborar com bots do discord
-- 📫 Como me encontrar, me encontre nesse servidor: https://discord.gg/UKJwmjZu
+
